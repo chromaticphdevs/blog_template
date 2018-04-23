@@ -1,0 +1,7 @@
+# 1---- Establish a custom 404 file not founc Page ---
+
+ErrorDocument 404 /page.404.php
+
+# 2---- Prevent directory file listing in all your files
+
+IndexIgnore *
